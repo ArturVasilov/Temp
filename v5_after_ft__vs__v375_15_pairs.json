@@ -1,0 +1,81 @@
+{
+    "name-1": "v5_after_ft",
+    "name-2": "v375",
+    "images": [
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/3656b2f06905994107df459cdab8dda0.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/e0a7df5cbadeb668afa9704f1732237d.png",
+            "prompt": "A friendly dog happily greeting pedestrians in front of a row of colorful market stands."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/06a9858b6e9ed1962ac50ac48aad0bea.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/8aeab942067964229ade829da79cf243.png",
+            "prompt": "Jurassic Park on the lunar surface, concept art, sketch"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/4765e70b95a59b589b517df3b1231a1a.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/44d953c7a0ca4c4e12c3c05fc45a5677.png",
+            "prompt": "steampunk city street"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/a65f016d84835090bf7137cae0126237.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/2b897e678e7c61dcd0d13967a84ddb8d.png",
+            "prompt": "Chef on a construction site."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/a00895c58f4ae3f545ccef1a5fcaa3fb.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/68dbfa2754cc113ac6a2a7bc271ce618.png",
+            "prompt": "monkey doing linkbuilding for a website with a banana"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/fb38c3e02297ed535ab9e82a01b22bcb.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/680292f2c1d01530041a513b87180e1b.png",
+            "prompt": "bears riding on the back of a whale, storybook painting"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/e8a6ca9a329d893ab578bf9ba1a65efe.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/25e3e36e02af7b6b5a250b5a612ae0a5.png",
+            "prompt": "A white cat lounging on a navy blue sofa."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/7f2e3c85a30df669a8209b3ff31f11e4.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/90108285e8a1358a005891ef75b87721.png",
+            "prompt": "Dungeons & Dragons, Commoner, Farmer, Character Portrait, Digital Art, Highly Detailed"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/b7e6b93aef8c68dfd136fe9083548ce0.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/a849337299997bb8da32ce50e32e36db.png",
+            "prompt": "A monkey browsing books in a library."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/3a8c1bdc4c0b91735e4577d353ff0c17.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/96cd6e483842d198d7c92c75307597e7.png",
+            "prompt": "Mountains in the style of Van Gogh"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/a812bfe5563bab123f85712ea94216e9.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/672a89860d8662e5932590ead6a5b8f9.png",
+            "prompt": "A golden picture frame hanging on a deep teal bedroom wall."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/e1d096c92e12f1b9ca8ddbf3d070c97e.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/6833a6774ced8059efb2b961ec54d772.png",
+            "prompt": "saturnus devouring his ice - cream"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/ccc526e171b5dfe7541291e6bd9d9208.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/e64fc7e426245a3d333e87d865fe01ac.png",
+            "prompt": "Two bicycles leaning against each other beside a bustling city sidewalk."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/ee61997b7a6e0052d452310e5623f468.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/495d013f5b0f800f2c36581d9874e082.png",
+            "prompt": "A crowd of origami cranes reflecting a rainbow of colors in a brightly lit room."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/d2b584b6390fde08fb5765dd92d8843c.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/3e0bcd6064f96e08a4a7f6a78b98e176.png",
+            "prompt": "A yoga instructor leading an outdoor group class in a picturesque city plaza."
+        }
+    ]
+}
