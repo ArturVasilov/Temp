@@ -1,0 +1,56 @@
+{
+    "name-1": "v5_after_ft",
+    "name-2": "v375",
+    "images": [
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/f887c7a6ad6b1a41dfaa30cbcc487e98.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/062d881a175ff9ea3048055945b1ffc2.png",
+            "prompt": "a flamingo with fat legs"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/6ec09aac6b36ddc2fc32762cacd21bb6.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/2f64061cfcf6654b4398762aab5cf5d8.png",
+            "prompt": "a forest growing on the upper part of an elephants body"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/5df9af69985dca8b07e78be5766db2e0.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/38726511d96473c4d84a046673e4b9a3.png",
+            "prompt": "A little girl using her hands to create shadow puppets on a bedroom wall."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/25c6ed0f4a57b419a7f064f9eed59249.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/067b7d960e87e397a6e23316fd5ade6d.png",
+            "prompt": "the iron giant destroying earth with laser eyes"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/c7ac24b1a7e39fc130991c8bc85ffa54.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/da01cbd86a301f2f0f22671930ea69c0.png",
+            "prompt": "A pink colored rabbit."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/5887fd51565777724c23b183daa4dd19.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/d9b819db361b0ae7f4d7addf6f84ddbd.png",
+            "prompt": "A swarm of bees buzzing around a tire swing tied to a tall tree."
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/93caa7b0e16262c1fbe396d88257082a.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/d337e9ab314432c4bc3cb4024593eac8.png",
+            "prompt": "interior of durer cyberpunk"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/0c72efeb82020da4580149606da8800c.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/86894482a8855b1d2cf7efb27f3119a4.png",
+            "prompt": "Sphynx cat wearing samurai Armour"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/ebb1d6c9fbf2714830920831918f3eaf.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/85d4f70ce63634975bd6af27564fe943.png",
+            "prompt": "the street of the most cozy city at night in the rain"
+        },
+        {
+            "image-1": "http://cvlab.s3.yandex.net/sbs/1fba1c8367c6881f4349a228802e8eac.png",
+            "image-2": "http://cvlab.s3.yandex.net/sbs/af8ecb0d0df716f33795121121b1f18f.png",
+            "prompt": "magnificent painting of samurais. lightings purple, thunderbolts glowing in background"
+        }
+    ]
+}
